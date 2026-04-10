@@ -1,0 +1,68 @@
+header{
+    width: 1500px;
+    height: 60px;
+    background-color: rgb(243, 189, 107);
+    text-align: center;
+    border: solid black;
+    color: blue;
+   
+}
+h3{
+    font-size: 100px;
+    color: blue;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    border: solid rgb(70, 27, 223) 4px;
+}
+.photo{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#FALOU{
+    width: 800px;
+    height: 1000px;
+    /* margin-top: 300px; */
+}
+#MOMY{
+    width: 800px;
+    height: 500px;
+}
+.ensemble{
+    display: flex;
+}
+.tarif{
+   width: 750px;
+   height: 1800px; 
+   background-color: rgb(198, 238, 207);
+   border: solid rgb(194, 166, 7);
+    /* margin-top: 300px; */
+}
+h2{
+    font-size: 100px;
+}
+h5{
+    font-size: 50px; 
+    color: blue;
+}
+body{
+    background-color: rgb(107, 107, 109);
+    background-image: url(YDKG.jpg);
+}
+.contact{
+    width: 600px;
+   height: 600px; 
+   background-color: rgb(0, 0, 0, 0.5);
+   margin-top: 100px;
+   margin-left: 100px;
+   border: solid blue;
+}i{
+    font-size: 100px;
+    color: blue;
+}
+a{
+    font-size: 60px;
+}
